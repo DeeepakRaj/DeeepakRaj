@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Deepak Raj</h1>
-<h3 align="center">A passionate layman from India figuring out my career.</h3>
+<h3 align="center">A passionate engineer from India figuring out my career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeepakraj&label=Profile%20views&color=0e75b6&style=flat" alt="deeepakraj" /> </p>
 
