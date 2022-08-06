@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeepakraj" alt="deeepakraj" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Google Data Studio, Blockchain**
+- 🌱 I’m currently learning **Python, Google Data Studio, Blockchain & Flutter Application Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deeepakraj/](https://www.linkedin.com/in/deeepakraj/)
 
